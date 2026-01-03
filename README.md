@@ -55,14 +55,3 @@ Conclusion
 
 X-EDU demonstrates a practical, ethical, and deployable approach to machine learning–based decision support in education, balancing predictive performance with human judgment and responsibility.
 
-If you want next, I can:
-
-Compress this into a one-page report
-
-Convert it into a paper-ready abstract + keywords
-
-Write a viva explanation in Q&A format
-
-Optimize it for resume or LinkedIn
-
-Just tell me 👍
